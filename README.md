@@ -1,2 +1,2 @@
 # speed-get
-a Internet file download tool
+### a file download tool
